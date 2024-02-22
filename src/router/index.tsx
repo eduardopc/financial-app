@@ -1,6 +1,6 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import { AuthGuard } from "./AuthGuard";
 
+import { AuthGuard } from "./AuthGuard";
 import { Login } from "../view/pages/Login";
 import { Register } from "../view/pages/Register";
 import { Home } from "../view/pages/Home";
